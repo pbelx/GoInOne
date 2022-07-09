@@ -1,0 +1,2 @@
+sqlite database goes here..
+INSERT INTO zlog (useragent,ip,url,time) VALUES (?,?,?,?)
